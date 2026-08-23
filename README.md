@@ -466,7 +466,7 @@ and continuously recommends the **best next career move**.
 
 ### Deeksha
 
-**Product • Frontend • Research & AI**
+**Product • Backend• Research & AI**
 
 ---
 
